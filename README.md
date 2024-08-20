@@ -1,4 +1,4 @@
-## Oiê, eu sou a Mel Perdomo! 
+## Oiê, eu sou a Mel Perdomo! 🖖
 _"Escrever, para mim, é tão natural quanto respirar, mas programar é uma grande paixão."_
 
 
