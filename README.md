@@ -9,6 +9,7 @@ Boas vindas ao meu repositório!
 * Estudo desenvolvimento de Front-End
 * Atualmente, trabalho como Copywriter
 * Na Próponto - Soluções em Incentivo
+* Também sou formada em Pedagogia
 
 
 ![Mel Perdomo GitHub stats](https://github-readme-stats.vercel.app/api?username=melperdomo&show_icons=true&theme=onedark)
