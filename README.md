@@ -1,5 +1,5 @@
 ## Oiê, eu sou a Mel Perdomo! 🍯 
-"Gosto de escrever e amo programar."
+"Escrever é natural para mim, mas programar é uma paixão."
 
 
 ![HTML5 Mel](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -8,10 +8,10 @@
 ![PHP Mel](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-Boas vindas ao meu repositório!
+Bem-vindo ao meu repositório!
 * Sou desenvolvedora de Front-End
-* Domino HTML, CSS e JS
-* Estou aprendendo PHP
+* Domino HTML e CSS
+* Estou aprendendo JS e PHP
 
 
 ![Mel Perdomo GitHub stats](https://github-readme-stats.vercel.app/api?username=melperdomo&show_icons=true&theme=onedark)
