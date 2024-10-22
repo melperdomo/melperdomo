@@ -1,5 +1,5 @@
-## Oiê, eu sou a Mel Perdomo! 🖖
-"Escrever, para mim, é tão natural quanto respirar, mas programar é uma grande paixão."
+## Oiê, eu sou a Mel Perdomo! 🍯 
+"Gosto de escrever e amo programar."
 
 
 ![HTML5 Mel](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
