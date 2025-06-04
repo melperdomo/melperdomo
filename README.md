@@ -8,16 +8,20 @@
 ![PHP Mel](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-Bem-vindo ao meu repositório!
-* Sou desenvolvedora PHP Júnior
-* Na Próponto - Soluções em Incentivo 
+Boas vindas ao meu repositório!
+* Sou Desenvolvedora PHP Júnior
+* Na Próponto - Soluções em Incentivo
+* Faço Pós Graduação em Full Stack Development na FIAP
+
+
 * Domino HTML e CSS
 * Também uso JS e MySQL
+* Já atuei como Copywriter
+* Também sou formada em Pedagogia
+
 
 ![Mel Perdomo GitHub stats](https://github-readme-stats.vercel.app/api?username=melperdomo&show_icons=true&theme=onedark)
 
-* Já atuei como Copywriter
-* Também sou formada em Pedagogia
 
 Entre em contato comigo:
 
