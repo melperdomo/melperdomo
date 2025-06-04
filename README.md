@@ -9,18 +9,15 @@
 
 
 Bem-vindo ao meu repositório!
-* Sou desenvolvedora de Front-End
+* Sou desenvolvedora PHP Júnior
+* Na Próponto - Soluções em Incentivo 
 * Domino HTML e CSS
-* Estou aprendendo JS e PHP
-
+* Também uso JS e MySQL
 
 ![Mel Perdomo GitHub stats](https://github-readme-stats.vercel.app/api?username=melperdomo&show_icons=true&theme=onedark)
 
-* Atualmente, trabalho como Copywriter
-* Na Próponto - Soluções em Incentivo
-* Estou em migração de carreira
+* Já atuei como Copywriter
 * Também sou formada em Pedagogia
-
 
 Entre em contato comigo:
 
