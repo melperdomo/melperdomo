@@ -3,7 +3,7 @@
 ![HTML5 Mel](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Mel](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Oiê, eu sou a Mel Perdomo! 🍯 
-✨ *Escrever é natural para mim, mas programar é uma paixão.*
+
 
 **Boas vindas ao meu repositório!**
 * Sou Desenvolvedora `PHP` Júnior
