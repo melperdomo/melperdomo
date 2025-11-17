@@ -4,13 +4,16 @@
 ![CSS3 Mel](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Oiê, eu sou a Mel Perdomo! 🍯 
 
-
-**Boas vindas ao meu repositório!**
-* Sou Desenvolvedora `PHP` Júnior
+* Sou **Desenvolvedora Full Stack Júnior**
 * Na Próponto - Soluções em Incentivo
 * Faço Pós Graduação em **Full Stack Development na FIAP**
-* Domino `HTML` e `CSS`
-* Também uso `JS` e `MySQL`
+
+|Skills||
+| :--- | :---|
+| **Linguagens de Programação** | PHP - TypeScript - JavaScript - SQL - HTML5 & CSS3 |
+| **Frameworks e Bibliotecas** | Laravel - Node.js - Express.js - Next.js - React.js - Next.js - React Native |
+| **Ferramentas e Tecnologias** | Git - Docker - Visual Studio Code - Browser - DevTools - Gerenciamento de Ambientes (Desenvolvimento, Teste e Produção) APIs RESTful - Postman |
+| **Metodologias Ágeis** | Scrumban |
 
 ![Mel Perdomo GitHub stats](https://github-readme-stats.vercel.app/api?username=melperdomo&show_icons=true&theme=onedark)
 
@@ -18,7 +21,6 @@
 😄 **Curiosidades:**
 * Já atuei como Copywriter
 * Também sou formada em Pedagogia
-* No meu tempo livre gosto de treinar, cozinhar, assistir animes, amassar a Medusa (minha gatinha) e aproveitar a companhia do meu esposo
 
 <br>
 
