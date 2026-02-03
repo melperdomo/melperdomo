@@ -1,24 +1,32 @@
-![PHP Mel](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JS Mel](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5 Mel](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Mel](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-## Oiê, eu sou a Mel Perdomo! 🍯 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
-* Sou **Desenvolvedora Full Stack Júnior**
-* Na Próponto - Soluções em Incentivo
-* Faço Pós Graduação em **Full Stack Development na FIAP**
+## Desenvolvedora Full Stack | PHP, Node.js, TypeScript, React & SQL
 
-|Skills||
-| :--- | :---|
-| **Linguagens de Programação** | PHP - TypeScript - JavaScript - SQL - HTML5 & CSS3 |
-| **Frameworks e Bibliotecas** | Laravel - Node.js - Express.js - Next.js - React.js - Next.js - React Native |
-| **Ferramentas e Tecnologias** | Git - Docker - Visual Studio Code - Browser - DevTools - Gerenciamento de Ambientes (Desenvolvimento, Teste e Produção) APIs RESTful - Postman |
-| **Metodologias Ágeis** | Scrumban |
+Olá, eu sou a Mel Perdomo! 🍯
 
-![Mel Perdomo GitHub stats](https://github-readme-stats.vercel.app/api?username=melperdomo&show_icons=true&theme=onedark)
+Consolidei minha transição para a tecnologia na Próponto Soluções em Incentivo, onde desenvolvi do zero o site e o blog institucional utilizando **PHP e JS** puro. Minha atuação atual envolve desde a criação de novos módulos de execução até a manutenção evolutiva do ecossistema em PHP, participando ativamente do entendimento da regra de negócio até a entrega em produção.
+
+Recentemente, meus projetos de **Pós-graduação na FIAP (Node.js/TypeScript)** foram validados com nota máxima em arquitetura, tratamento de erros e abstração de serviços. Priorizo o desenvolvimento de código limpo e seguro, com foco em facilitar a manutenção e a escalabilidade do produto.
+
+**Stack:**
+
+* PHP, Node.js (Express/Nest), SQL (MySQL), APIs RESTful
+* JavaScript, TypeScript, React.js, HTML5, CSS3
+* Git, Docker
+* Ágil, Scrumban
 
 
-😄 **Curiosidades:**
+**Curiosidades:**
+
 * Já atuei como Copywriter
 * Também sou formada em Pedagogia
 
@@ -26,21 +34,5 @@
 
 **Entre em contato comigo:**
 
-[![Gmail Mel](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melissameira92@gmail.com)
-[![LinkedIn Mel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-perdomo/)
-[![Instagram Mel](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amelperdomo/)
-
-<!--
-**melperdomo/melperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Mel](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:melissameira92@gmail.com)
+[![LinkedIn Mel](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/melissa-perdomo/)
