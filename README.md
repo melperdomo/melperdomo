@@ -9,30 +9,27 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
-## Desenvolvedora Full Stack | PHP, Node.js, TypeScript, React & SQL
+# Olá, eu sou a Mel Perdomo! 🍯
+**Desenvolvedora Full Stack | PHP, Node.js, TypeScript & React**
 
-Olá, eu sou a Mel Perdomo! 🍯
+Sou uma desenvolvedora apaixonada por engenharia de software, focada em construir soluções diretas, limpas e escaláveis. Priorizo o entendimento profundo do contexto e das regras de negócio antes de escrever a primeira linha de código.
 
-Consolidei minha transição para a tecnologia na Próponto Soluções em Incentivo, onde desenvolvi do zero o site e o blog institucional utilizando **PHP e JS** puro. Minha atuação atual envolve desde a criação de novos módulos de execução até a manutenção evolutiva do ecossistema em PHP, participando ativamente do entendimento da regra de negócio até a entrega em produção.
+### 💻 O que eu faço no dia a dia
+* Atuo com forte autonomia no ecossistema **PHP e JavaScript**, sendo responsável pela manutenção e implementação de novos módulos sistêmicos, do levantamento de requisitos até a entrega em produção.
+* **Foco em Qualidade:** Tenho um compromisso rigoroso com a excelência técnica. Atualmente, **80% dos meus cards passam pelo QA sem necessidade de ajustes**, atendendo 100% aos critérios de aceitação do negócio de primeira.
 
-Recentemente, meus projetos de **Pós-graduação na FIAP (Node.js/TypeScript)** foram validados com nota máxima em arquitetura, tratamento de erros e abstração de serviços. Priorizo o desenvolvimento de código limpo e seguro, com foco em facilitar a manutenção e a escalabilidade do produto.
+### 🚀 Projeto em Destaque
+Idealizadora e desenvolvedora do [Color Freak](https://color-freak.vercel.app/)
 
-**Stack:**
+Um produto real em produção, construído do zero em Node.js com foco em performance e escalabilidade.
+* **Infraestrutura e Dados:** Deploy contínuo via **Vercel** e modelagem de dados estruturada no **Neon DB**.
+* **Visão de Produto:** Plataforma totalmente funcional e monetizada, integrada a programas de afiliados (Amazon e Shopee).
 
-* PHP, Node.js (Express/Nest), SQL (MySQL), APIs RESTful
-* JavaScript, TypeScript, React.js, HTML5, CSS3
-* Git, Docker
-* Ágil, Scrumban
+### 🛠️ Minha Stack
+* **Back-end:** PHP, Node.js (Express/Nest), TypeScript, APIs RESTful
+* **Front-end:** JavaScript, React.js, HTML5, CSS3
+* **Banco de Dados & Infra:** SQL (MySQL, Neon DB), Git, Docker, Vercel
+* **Engenharia & Metodologias:** Clean Code, Arquitetura de Sistemas, Ágil, Scrumban
 
-
-**Curiosidades:**
-
-* Já atuei como Copywriter
-* Também sou formada em Pedagogia
-
-<br>
-
-**Entre em contato comigo:**
-
-[![Gmail Mel](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:melissameira92@gmail.com)
-[![LinkedIn Mel](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/melissa-perdomo/)
+### 💡 Curiosidades que agregam ao meu código
+Minha trajetória me deu habilidades únicas para a tecnologia. Sou formada em **Pedagogia** e já atuei como **Copywriter**. Na prática, isso significa que tenho facilidade de aprendizado (sou autodidata), excelente comunicação para alinhar regras de negócio com stakeholders e escrevo documentações e códigos pensando em quem vai ler depois.
