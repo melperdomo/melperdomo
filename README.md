@@ -18,27 +18,52 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
+
 # Olá, eu sou a Mel Perdomo! 🍯
-**Desenvolvedora Full Stack | PHP, Node.js, TypeScript & React**
+**Desenvolvedora Full Stack | Node.js, TypeScript, React/Next.js**
 
-Sou uma desenvolvedora apaixonada por engenharia de software, focada em construir soluções diretas, limpas e escaláveis. Priorizo o entendimento profundo do contexto e das regras de negócio antes de escrever a primeira linha de código.
+Foco em código limpo, regras de negócio bem traduzidas e entregas que rodam em produção. Antes de escrever a primeira linha, gosto de entender o problema — provavelmente uma herança dos meus tempos como pedagoga e copywriter.
 
-### 💻 O que eu faço no dia a dia
-* Atuo com forte autonomia no ecossistema **PHP e JavaScript**, sendo responsável pela manutenção e implementação de novos módulos sistêmicos, do levantamento de requisitos até a entrega em produção.
-* **Foco em Qualidade:** Tenho um compromisso rigoroso com a excelência técnica. Atualmente, **80% dos meus cards passam pelo QA sem necessidade de ajustes**, atendendo 100% aos critérios de aceitação do negócio de primeira.
+📍 Nova Odessa, SP  
+🎓 Concluindo pós-graduação Full Stack na FIAP em abr/2026  
+🌐 [color-freak.vercel.app](https://color-freak.vercel.app/) — meu produto pessoal em produção
 
-### 🚀 Projeto em Destaque
-Idealizadora e desenvolvedora do [Color Freak](https://color-freak.vercel.app/)
+---
 
-Um produto real em produção, construído do zero em Node.js com foco em performance e escalabilidade.
-* **Infraestrutura e Dados:** Deploy contínuo via **Vercel** e modelagem de dados estruturada no **Neon DB**.
-* **Visão de Produto:** Plataforma totalmente funcional e monetizada, integrada a programas de afiliados (Amazon e Shopee).
+### 🚀 Projetos em destaque
 
-### 🛠️ Minha Stack
-* **Back-end:** PHP, Node.js (Express/Nest), TypeScript, APIs RESTful
-* **Front-end:** JavaScript, React.js, HTML5, CSS3
-* **Banco de Dados & Infra:** SQL (MySQL, Neon DB), Git, Docker, Vercel
-* **Engenharia & Metodologias:** Clean Code, Arquitetura de Sistemas, Ágil, Scrumban
+**[Color Freak](https://color-freak.vercel.app/)** · *Em produção · Monetizado*  
+Plataforma de conteúdo sobre colorimetria capilar, com blog público e CMS administrativo. Construída ponta a ponta em **Next.js 15 (App Router) + TypeScript + Prisma + PostgreSQL (Neon DB)**, com autenticação JWT em cookies HTTP-Only, SEO dinâmico (sitemap/robots) e integração com programas de afiliados (Amazon, Shopee).
 
-### 💡 Curiosidades que agregam ao meu código
-Minha trajetória me deu habilidades únicas para a tecnologia. Sou formada em **Pedagogia** e já atuei como **Copywriter**. Na prática, isso significa que tenho facilidade de aprendizado (sou autodidata), excelente comunicação para alinhar regras de negócio com stakeholders e escrevo documentações e códigos pensando em quem vai ler depois.
+**[EducaMais](https://github.com/fiap-time-4)** · *Projeto em equipe · FIAP*  
+Plataforma colaborativa de blog para docentes e alunos. Backend em **Node.js + TypeScript + Express + Prisma + PostgreSQL** com arquitetura em camadas e testes em **Jest**; frontend em **Next.js 14 + Tailwind + ShadCN UI** com autenticação Better Auth e deploy automatizado via **GitHub Actions + Docker**.
+
+---
+
+### 💻 No que estou trabalhando hoje
+
+Desenvolvedora Full Stack na **Próponto Soluções em Incentivo**, no ecossistema PHP + JavaScript. Construo novos módulos, refatoro código legado e desenvolvi do zero o site institucional + blog da empresa, em fluxo Scrumban — do entendimento da regra de negócio até a entrega em produção.
+
+---
+
+### 🛠️ Stack
+
+- **Back-end:** Node.js · TypeScript · Express · Next.js (App Router) · PHP
+- **Front-end:** React · Next.js · Tailwind CSS · ShadCN UI · CSS Modules
+- **Banco de dados:** PostgreSQL (Neon DB) · MySQL · Prisma (ORM)
+- **Auth & Segurança:** JWT (Jose) · Bcrypt · Better Auth · Cookies HTTP-Only
+- **Infra & DevOps:** Docker · Vercel · GitHub Actions · Git
+- **Testes:** Jest
+- **Práticas:** Clean Code · SOLID · REST · Arquitetura em Camadas · Scrumban
+
+---
+
+### 💡 O que agrega ao meu código
+
+Antes da tecnologia, fui pedagoga e copywriter. Isso me deu três coisas que uso todo dia: aprendizado rápido (autodidata por necessidade), comunicação clara com stakeholders não técnicos, e atenção redobrada a quem vai ler o código depois — incluindo eu mesma daqui a seis meses.
+
+---
+
+### 📫 Onde me encontrar
+
+[LinkedIn](https://linkedin.com/in/melissa-perdomo/) · melissameira92@gmail.com
