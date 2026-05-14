@@ -25,7 +25,7 @@
 Foco em código limpo, regras de negócio bem traduzidas e entregas que rodam em produção. Antes de escrever a primeira linha, gosto de entender o problema — provavelmente uma herança dos meus tempos como pedagoga e copywriter.
 
 📍 Nova Odessa, SP  
-🎓 Concluindo pós-graduação Full Stack na FIAP em abr/2026  
+🎓 Pós Graduada em Full Stack pela FIAP em abr/2026
 🌐 [color-freak.vercel.app](https://color-freak.vercel.app/) — meu produto pessoal em produção
 
 ---
